@@ -1,0 +1,9 @@
+[
+	{
+        "id": "4",
+        "name": "Education: 3D Model",
+		"iconpath":"education/images/",
+		"htmlpath": "education/",
+		"info":"Tested on XRViewer browser iOS (> iPhone 6s)."
+	}
+]
